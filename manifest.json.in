@@ -1,0 +1,15 @@
+{
+    "name": "@APP_ID@",
+    "description": "Bartending app for those that want to mix it up...at home.",
+    "architecture": "@CLICK_ARCH@",
+    "title": "@APP_NAME@",
+    "hooks": {
+        "Tender": {
+            "apparmor": "Tender.apparmor",
+            "desktop": "Tender.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Benjamin Flanagin <bflanagin@vagueentertainment.com>",
+    "framework": "ubuntu-sdk-15.04.6"
+}

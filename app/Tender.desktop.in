@@ -1,0 +1,10 @@
+[Desktop Entry]
+_Name=Tender
+Comment=Bartending app for those that want to mix it up...at home.
+Exec=@EXEC@
+Icon=@ICON@
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
+
